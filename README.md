@@ -8,7 +8,7 @@ SaaS para profesionales de la belleza en Latinoamérica, en web y móvil. Un pro
 
 ## El problema
 
-Los profesionales de la belleza en Latinoamérica necesitan una herramienta pensada para su trabajo, disponible tanto en el ordenador como en el móvil.
+Los profesionales de la belleza en Latinoamérica necesitan una herramienta pensada para su trabajo, disponible en web y en el móvil.
 
 ## La solución
 
